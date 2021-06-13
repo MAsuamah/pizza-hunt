@@ -19,7 +19,7 @@
 * When you click the `Create a New Pizza` button you will be brought to a page where you can create a pizza recipe. 
 * Enter a pizza name, your name, the pizza size, and the pizza toppings of your choice. 
 * You will be given choices from a pre-populated list of pizza toppings, but feel free to add your own toppings to the list by entering a topping in the provided `Add Topping` text area and clicking `Add Topping`. 
-* Once you are done click submit recipe and you will be alerted that your pizza has been successfully created. From there you can click `See All Pizzas` and find your pizza on the homepage.
+* Once you are done click submit recipe you will be alerted that your pizza has been successfully created. From there you can click `See All Pizzas` and find your pizza on the homepage.
 
 
 ### See the Discussion
