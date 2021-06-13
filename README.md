@@ -26,7 +26,7 @@
 
 ![screencapture-masuamah-pizza-hunt-herokuapp-pizza-2021-06-13-14_44_40](https://user-images.githubusercontent.com/77217156/121819243-00f34d00-cc5a-11eb-9b8f-ead81a985001.png)
 
-* When you click the `See the discussion` button you will be brought to a page where you can read comments and replies as well as add your own comments and replies to comments.
+* When you click the `See the discussion` button you will be brought to a page where you can read comments and replies. You can also add your own comments and reply to comments.
 * To add a comment, fill out the corresponding form with your name and comment. Then click `Add Comment`.
 * To reply to a comment, fill out the form in the corresponding comment you would like to reply to. Then click `Add Reply`.
 
