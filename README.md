@@ -32,7 +32,7 @@
 
  ## Built with 
  * Express.js
- * NoSQL
+ * MongoDB
  * Mongoose
  
  ## Website
